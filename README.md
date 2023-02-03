@@ -8,26 +8,35 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
+
 <!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 -->
+<p align="center">
+    <a href="https://github.com/GlitchyMako/Face-detection/releases">
+        <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
+    </a>
+    <a href="https://github.com/GlitchyMako/Face-detection/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devicons/devicon?color=%2360be86&style=for-the-badge">
+    </a>
+    <a href="https://github.com/GlitchyMako/Face-detection/actions">
+        <img alt="GitHub branch checks state" src="https://img.shields.io/github/checks-status/devicons/devicon/master?color=%2360be86&style=for-the-badge">
+    </a>
+    <a href="https://github.com/GlitchyMako/Face-detection/issues?q=is%3Aopen+is%3Aissue+label%3Arequest%3Aicon">
+        <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/devicons/devicon/request:icon?color=%2360be86&label=icon%20requests&style=for-the-badge">
+    </a>
+    <a href="https://github.com/GlitchyMako/Face-detection/stargazers">
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/devicons/devicon?color=%2360be86&label=github%20stars&style=for-the-badge">
+    </a>
+</p>
 
 <!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
 
@@ -83,15 +92,11 @@ This project is a simple implementation of face detection in Python using OpenCV
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!--
 ### Built With
 
-* [![python][python]][python-url]
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -196,5 +201,3 @@ Project Link: [https://github.com/glitchyMako/Face-detection](https://github.com
 [issues-url]: https://github.com/GlitchyMako/Face-detection/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tomás-almeida-garrett-83461a183/
-[python-shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-[python-url]: https://www.python.org 
