@@ -31,7 +31,7 @@
 <br />
 <div align="center">
 
-<h2 align="center">Face detection</h2>
+<h1 align="center">Face detection</h1>
 
   <p align="center">
     <br />
