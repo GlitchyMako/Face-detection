@@ -17,7 +17,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -25,7 +25,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+-->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -84,14 +84,14 @@ This project is a simple implementation of face detection in Python using OpenCV
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!--
 ### Built With
 
-* [![Python][Python]][python-url]
+* [![python][python]][python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+-->
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -196,5 +196,5 @@ Project Link: [https://github.com/glitchyMako/Face-detection](https://github.com
 [issues-url]: https://github.com/GlitchyMako/Face-detection/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tomás-almeida-garrett-83461a183/
-[python-shield]: https://img.shields.io/badge/Python-000004?style=for-the-badge&logo=python&logoColor=white
+[python-shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [python-url]: https://www.python.org 
